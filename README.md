@@ -1,1 +1,1 @@
-# This repository consists of Programming assignmenets for Deep learning.
+# This repository consists of Programming assignments for Deep learning.
